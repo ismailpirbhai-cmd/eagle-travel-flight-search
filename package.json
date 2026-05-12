@@ -1,0 +1,6 @@
+{
+  "name": "eagle-travel-backend",
+  "version": "1.0.0",
+  "description": "Backend for Eagle Travel flight search",
+  "main": "api/search.js"
+}
